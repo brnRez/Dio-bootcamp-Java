@@ -1,0 +1,69 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "edu.brunao.ContaBanco.ContaTerminal",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "TesteScanner",
+            "request": "launch",
+            "mainClass": "edu.brunao.Terminal.TesteScanner",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.brunao.Terminal.Argumentos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1",
+            "args": [
+                "Bruno",
+                "Maciel",
+                "24",
+                "1.88"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "TesteTerminal",
+            "request": "launch",
+            "mainClass": "edu.brunao.Terminal.TesteTerminal",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.brunao.exemploMetodos.Usuario",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "TiposOperadores",
+            "request": "launch",
+            "mainClass": "edu.brunao.tiposOperadores.TiposOperadores",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        }
+    ]
+}
