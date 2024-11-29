@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "edu.brunao.Enums.SistemaIbge",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.brunao.Construtores.SistemaCadastro",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "VerificarComboCompleto",
+            "request": "launch",
+            "mainClass": "edu.brunao.DesafioCodigo.VerificarComboCompleto",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "ServicoTelefonia",
+            "request": "launch",
+            "mainClass": "edu.brunao.DesafioCodigo.ServicoTelefonia",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "edu.brunao.ControleFluxo.DesafioControleFluxo.Contador",
