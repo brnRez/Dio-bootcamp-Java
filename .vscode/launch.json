@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IPhone",
+            "request": "launch",
+            "mainClass": "edu.brunao.PilaresOO.DesafioPOO.IPhone",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "EnvioComandos",
+            "request": "launch",
+            "mainClass": "edu.brunao.PilaresOO.ExemploInterfaces.EnvioComandos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorTeste",
+            "request": "launch",
+            "mainClass": "edu.brunao.PilaresOO.ProjetoAppMensagens.ComputadorTeste",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
             "name": "SistemaIbge",
             "request": "launch",
             "mainClass": "edu.brunao.Enums.SistemaIbge",
