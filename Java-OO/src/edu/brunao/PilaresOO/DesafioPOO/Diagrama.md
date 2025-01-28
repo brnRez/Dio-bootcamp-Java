@@ -2,7 +2,7 @@
 classDiagram
 
     class ReprodutorMusical {
-    <<interface>> ReprodutorMusical
+        <<interface>> ReprodutorMusical
         +abrirReprodutorMusical()
         +selecionarMusica()
         +tocar()
@@ -11,7 +11,7 @@ classDiagram
     }
 
     class Telefone {
-    <<interface>> Telefone 
+        <<interface>> Telefone 
         +abrirTelefone()
         +ligar()
         +atender()
@@ -20,7 +20,7 @@ classDiagram
     }
 
     class Navegador {
-    <<interface>> Navegador
+        <<interface>> Navegador
         +abrirNavegador()
         +exibirPagina()
         +adicionarNovaAba()
@@ -28,7 +28,7 @@ classDiagram
     }
     
     class ReprodutorVisual{
-    <<interface>> ReprodutorVisual
+        <<Interface>> ReprodutorVisual
         +abrirReprodutorVisual()
         +selecionarVideo()
         +pausarVideo()
