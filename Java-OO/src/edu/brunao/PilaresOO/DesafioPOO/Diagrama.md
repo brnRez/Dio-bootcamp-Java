@@ -40,14 +40,14 @@ classDiagram
 
     }
 
-    class iPhone {
+    class IPhone {
         +main(String [] args)
         
     }
 
     ReprodutorMusical --> DispositivoMovel : implements
-    AparelhoTelefonico --> DispositivoMovel : implements
-    NavegadorInternet --> DispositivoMovel : implements
+    Telefone --> DispositivoMovel : implements
+    Navegador --> DispositivoMovel : implements
     ReprodutorVisual --> DispositivoMovel : implements
 
     DispositivoMovel --> IPhone : extends
