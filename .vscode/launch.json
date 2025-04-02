@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrdenacaoPessoas",
+            "request": "launch",
+            "mainClass": "edu.brunao.List.Ordenacao.OrdenacaoPessoas",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "edu.brunao.List.Pesquisa.CatalogoLivros",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefas",
+            "request": "launch",
+            "mainClass": "edu.brunao.List.OperacoesBasicas.ListaTarefas",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
             "name": "IPhone",
             "request": "launch",
             "mainClass": "edu.brunao.PilaresOO.DesafioPOO.IPhone",
