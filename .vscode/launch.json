@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Desafios.BootcampOO.Main",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Desafios.DesafioCodigo.Main",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Desafios.BancoDigitalOO.Main",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "EstoqueProdutos",
+            "request": "launch",
+            "mainClass": "edu.brunao.Map.Pesquisa.EstoqueProdutos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.brunao.Map.OperacoesBasicas.AgendaContatos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "edu.brunao.Set.Ordenacao.CadastroProdutos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "edu.brunao.Set.Pesquisa.AgendaContatos",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "edu.brunao.Set.OperacoesBasicas.ConjuntoConvidados",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Coddy",
+            "request": "launch",
+            "mainClass": "Coddy",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
+            "name": "Class",
+            "request": "launch",
+            "mainClass": "Class",
+            "projectName": "Dio-bootcamp-Java_8bed40f1"
+        },
+        {
+            "type": "java",
             "name": "OrdenacaoPessoas",
             "request": "launch",
             "mainClass": "edu.brunao.List.Ordenacao.OrdenacaoPessoas",
