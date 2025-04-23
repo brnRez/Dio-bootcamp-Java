@@ -1,4 +1,3 @@
-```markdown
 # Desafio demonstração de Bootcamp utilizando Orientação a Objetos
 
 Entrega do desafio de orientação a objetos no qual abstraímos o conceito de um bootcamp, utilizando do objeto Dev como base para a progressão do curso, podendo se inscrever num bootcamp, obtendo conteúdos, progredir nos conteúdos inscritos e obter Xp de tal forma.
