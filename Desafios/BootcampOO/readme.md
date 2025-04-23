@@ -6,6 +6,7 @@ Entrega do desafio de orientação a objetos no qual abstraímos o conceito de u
 ## Diagrama
 
 ```mermaid
+
 classDiagram
     class Bootcamp {
         - String name
@@ -46,4 +47,3 @@ classDiagram
     Content <|-- Mentorship
     Bootcamp "many" --> "many" Dev
     Dev "many" --> "many" Content
-```
